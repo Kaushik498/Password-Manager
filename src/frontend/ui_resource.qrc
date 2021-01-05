@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="resize_icon">
+    <file>resource/resize_icon.png</file>
+  </qresource>
+  <qresource prefix="user_icon">
+    <file>resource/red_user.svg</file>
+    <file>resource/user_icon.svg</file>
+  </qresource>
+  <qresource prefix="home_icon">
+    <file>resource/web-house-.svg</file>
+  </qresource>
+  <qresource prefix="password_icon">
+    <file>resource/lock.svg</file>
+  </qresource>
+  <qresource prefix="settings_icon">
+    <file>resource/settings_icon.svg</file>
+  </qresource>
+</RCC>
